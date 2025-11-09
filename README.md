@@ -1,5 +1,5 @@
-# Python-Basic-Project
-Basic pyhton project using string, list, loops, and conditions.
+# Python-Project
+Pyhton project using string, list, loops, conditions and all methods.
 
 
 
